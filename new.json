@@ -1,15 +1,7 @@
 {
-	"user_name": "Anna",
-	"user_age": 25,
-	"salary": 1700,
-	"family": {
-		"person_1": {
-			"name": "Alex",
-			"age": 2
-		},
-		"person_2": {
-			"name": "Barsik",
-			"age": 2
-		}
-	}
+	"user_name":"Dzmitry", 
+	"user_surname": "Ivanov",
+	"age": 18,
+	"number_of_pets": 2,
+	"desired_salary": 2500
 }
